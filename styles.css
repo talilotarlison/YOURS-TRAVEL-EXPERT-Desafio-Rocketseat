@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body {
+    background-image: url(https://raw.githubusercontent.com/Patricia17991/Evento-Rocketseat/main/desafio-01/src/assets/background.png);
+    background-size: cover;
+  background-repeat: no-repeat;
+    text-align: center;
+   margin-top: 190px;
+   background-position: center;
+  height: 100vh;
+}
+
+span {
+    color: #DB2777;
+}
+
+#button {
+    margin: 0;
+    background: #DB2777;
+    color: white;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+a {
+    font-family: Bold, 'sans-serif';
+    font-weight: 600;
+    padding: 32px;
+    text-decoration: none;
+    color: #151718;
+}
+
+h1 {
+    font-weight: 900;
+    color: #151718;
+    font-size: 50px;
+}
+
+h3 {
+    font-family: Regular, 'sans-serif';
+    font-weight: 300;
+    color: #2C2E2F;
+   font-size: 22px;
+  opacity: 0.8;
+    
+}
+p{
+  opacity: 0.6;
+  margin:35px;
+}
+.play-btn{
+  background-color:#DB2777;
+  padding:10px 15px;
+  border-radius: 20px;
+    color: white;
+}
+
+.play-btn:hover{
+  color:black;
+}
